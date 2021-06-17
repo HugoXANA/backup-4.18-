@@ -1,0 +1,135 @@
+14:31:27 (lmgrd) -----------------------------------------------
+14:31:27 (lmgrd)   Please Note:
+14:31:27 (lmgrd) 
+14:31:27 (lmgrd)   This log is intended for debug purposes only.
+14:31:27 (lmgrd)   In order to capture accurate license
+14:31:27 (lmgrd)   usage data into an organized repository,
+14:31:27 (lmgrd)   please enable report logging. Use Flexera Software LLC's
+14:31:27 (lmgrd)   software license administration  solution,
+14:31:27 (lmgrd)   FlexNet Manager, to  readily gain visibility
+14:31:27 (lmgrd)   into license usage data and to create
+14:31:27 (lmgrd)   insightful reports on critical information like
+14:31:27 (lmgrd)   license availability and usage. FlexNet Manager
+14:31:27 (lmgrd)   can be fully automated to run these reports on
+14:31:27 (lmgrd)   schedule and can be used to track license
+14:31:27 (lmgrd)   servers and usage across a heterogeneous
+14:31:27 (lmgrd)   network of servers including Windows NT, Linux
+14:31:27 (lmgrd)   and UNIX.
+14:31:27 (lmgrd) 
+14:31:27 (lmgrd) -----------------------------------------------
+14:31:27 (lmgrd) 
+14:31:27 (lmgrd) 
+14:31:27 (lmgrd) Server's System Date and Time: Thu Jun 17 2021 14:31:27 中国标准时间
+14:31:27 (lmgrd) pid 7828
+14:31:27 (lmgrd) SLOG: Summary LOG statistics is enabled.
+14:31:27 (lmgrd) Done rereading
+14:31:27 (lmgrd) FlexNet Licensing (v11.14.1.3 build 212549 i86_n3) started on DESKTOP-91RBBDT (IBM PC) (6/17/2021)
+14:31:27 (lmgrd) Copyright (c) 1988-2017 Flexera Software LLC. All Rights Reserved.
+14:31:27 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+14:31:27 (lmgrd) License file(s): C:\Users\surface\Documents\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.lic
+14:31:27 (lmgrd) lmgrd tcp-port 25734
+14:31:27 (lmgrd) (@lmgrd-SLOG@) ===============================================
+14:31:27 (lmgrd) (@lmgrd-SLOG@) === LMGRD ===
+14:31:27 (lmgrd) (@lmgrd-SLOG@) Start-Date: Thu Jun 17 2021 14:31:27 中国标准时间
+14:31:27 (lmgrd) (@lmgrd-SLOG@) PID: 7828
+14:31:27 (lmgrd) (@lmgrd-SLOG@) LMGRD Version: v11.14.1.3 build 212549 i86_n3 ( build 212549 (ipv6))
+14:31:27 (lmgrd) (@lmgrd-SLOG@) 
+14:31:27 (lmgrd) (@lmgrd-SLOG@) === Network Info ===
+14:31:27 (lmgrd) (@lmgrd-SLOG@) Listening port: 25734
+14:31:27 (lmgrd) (@lmgrd-SLOG@) 
+14:31:27 (lmgrd) (@lmgrd-SLOG@) === Startup Info ===
+14:31:27 (lmgrd) (@lmgrd-SLOG@) Is LS run as a service: Yes
+14:31:27 (lmgrd) (@lmgrd-SLOG@) Server Configuration: Single Server
+14:31:27 (lmgrd) (@lmgrd-SLOG@) Command-line options used at LS startup: -c C:\Users\surface\Documents\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.lic -l C:\Users\surface\Documents\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.log -z -s 
+14:31:27 (lmgrd) (@lmgrd-SLOG@) License file(s) used:  C:\Users\surface\Documents\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.lic
+14:31:27 (lmgrd) (@lmgrd-SLOG@) ===============================================
+14:31:27 (lmgrd) SLOG: FNPLS-INTERNAL-VL1-4096
+14:31:27 (lmgrd) Starting vendor daemons ... 
+14:31:27 (lmgrd) Started SW_D (pid 7900)
+14:31:27 (SW_D) Unable to initialize access to trusted storage: 1
+14:31:27 (SW_D) FlexNet Licensing version v11.14.1.3 build 212549 i86_n3
+14:31:27 (SW_D) SLOG: Summary LOG statistics is enabled.
+14:31:27 (SW_D) SLOG: FNPLS-INTERNAL-CKPT1
+14:31:27 (SW_D) SLOG: VM Status: 255
+14:31:27 (SW_D) Server started on DESKTOP-91RBBDT for:	solidworks	
+14:31:27 (SW_D) swoffice	swofficepro	harnessing	
+14:31:27 (SW_D) photoworks	featureworks	piping		
+14:31:27 (SW_D) animator	toolbox		utilities	
+14:31:27 (SW_D) swofficepremium taskscheduler	dwgeditor	
+14:31:27 (SW_D) swift		designchecker	scanto3d	
+14:31:27 (SW_D) tolanalyst	snlcore		swofficepremium_cwpro 
+14:31:27 (SW_D) swofficepremium_cwadvpro circuitworks	photoviewcore	
+14:31:27 (SW_D) swsustainability catiatoswtrans	swcosting	
+14:31:27 (SW_D) swbackcomp	routingelec	swmodelbreakview 
+14:31:27 (SW_D) swradialexplode swchainstepexplode swflatteneverything 
+14:31:27 (SW_D) swcostingasm	dimxpertasm	sw3dpdf		
+14:31:27 (SW_D) swlivereporteditor edrw		edrwcore	
+14:31:27 (SW_D) swmbd		swmbd_std	elec2dcore	
+14:31:27 (SW_D) elec2dstd	elec2d		elec3d		
+14:31:27 (SW_D) elecpro		pdmworks	pdmworks_sa	
+14:31:27 (SW_D) pdmworks_as	sw3dinteropcatia swcomparepmi	
+14:31:27 (SW_D) cae_cwcore	cae_cwadvpro	cae_cosmosmotioncore 
+14:31:27 (SW_D) cae_cosmosmotion cae_cosmosfloworkscore cae_cosmosfloworkspe 
+14:31:27 (SW_D) cae_cosmosfloworks_hvac cae_cosmosfloworks_elec cae_cosmosfloworkspro 
+14:31:27 (SW_D) cae_cosmosfloworksadvpro cae_cosmosfloworks_rot swcomposer	
+14:31:27 (SW_D) swcomposer_publisher swcomposer_animationpublisher swcomposer_kinematicpublisher 
+14:31:27 (SW_D) swcomposer_syncfullmaintenance swcomposer_pathplanning swcomposer_publishpdf 
+14:31:27 (SW_D) swcomposer_clashrt swcomposer_vectorizationsync swcomposer_acis 
+14:31:27 (SW_D) swcomposer_iges swcomposer_step swcomposer_proe 
+14:31:27 (SW_D) swcomposer_vdafs swcomposer_cgm	swcomposer_cg	
+14:31:27 (SW_D) swcomposer_catiav4 swcomposer_catiav4pipe swcomposer_catiav5 
+14:31:27 (SW_D) swcomposer_catiav5cgr swcomposer_catiav5fta swcomposer_playerexchange 
+14:31:27 (SW_D) swcomposer_geometrypublisher swcomposer_templatepublisher swcomposer_highrespublisher 
+14:31:27 (SW_D) swcomposer_rightmanager swcomposer_playerintegration swcomposer_secure3d 
+14:31:27 (SW_D) swcomposer_connect swcomposer_catiav52d swcomposer_catiav42d 
+14:31:27 (SW_D) swcomposer_parasolid swcomposer_ug	swcomposer_inventor 
+14:31:27 (SW_D) swcomposer_jtexport swcomposer_jtimport swcomposer_cadds 
+14:31:27 (SW_D) swcomposer_jtimportfta swcomposer_syncenterprise swcomposer_check 
+14:31:27 (SW_D) swcomposer_playerpro swinspection	swinspection_pdf 
+14:31:27 (SW_D) swinspection_sw swinspection_cmm swinspection_measure 
+14:31:27 (SW_D) swinspection_std swinspection_pro swinspection_3dpdf 
+14:31:27 (SW_D) swinspection_pdf_2dimport swinspection_pdf_3dimport swinspection_sw_3dimport 
+14:31:27 (SW_D) plastics	plastics_pro	plastics_premium 
+14:31:27 (SW_D) plastics_advanced draftsight	draftsightapi	
+14:31:27 (SW_D) draftsightpremium draftsightcampus draftsightclass 
+14:31:27 (SW_D) draftsightdeveloper draftsightpro	visu		
+14:31:27 (SW_D) visupro		visupowerboost	pcb		
+14:31:27 (SW_D) pcbpro		pcbaltium	camassemblies	
+14:31:27 (SW_D) camturning	camconfigs	camadaptive	
+14:31:27 (SW_D) camnceditor	cammillindexing camposting	
+14:31:27 (SW_D) campro		swepdm_cadeditor swepdm_cadeditorandweb 
+14:31:27 (SW_D) swepdm_contributor swepdm_contributorandweb swepdm_viewer	
+14:31:27 (SW_D) swepdm_web	swepdm_processor swepm_web	
+14:31:27 (SW_D) swepdm		swpdmstd_cadeditor swpdmstd_contributor 
+14:31:27 (SW_D) swpdmstd_viewer swmanage	swmanagefull	
+14:31:27 (SW_D) swmanageview	swmanagepro_editor swmanagepro_contributor 
+14:31:27 (SW_D) swmanagepro_viewer swmanagepro_processor swmanageswaddin 
+14:31:27 (SW_D) camcore		swdesigntomanufacturing swmechatronicspro 
+14:31:27 (SW_D) swmechatronicsstd visuboost	
+14:31:27 (SW_D) EXTERNAL FILTERS are OFF
+14:31:27 (lmgrd) SW_D using TCP-port 49674
+14:31:27 (SW_D) SLOG: Statistics Log Frequency is 240 minute(s).
+14:31:27 (SW_D) SLOG: TS update poll interval is 600 seconds.
+14:31:27 (SW_D) SLOG: Activation borrow reclaim percentage is 0.
+14:31:27 (SW_D) (@SW_D-SLOG@) ===============================================
+14:31:27 (SW_D) (@SW_D-SLOG@) === Vendor Daemon ===
+14:31:27 (SW_D) (@SW_D-SLOG@) Vendor daemon: SW_D
+14:31:27 (SW_D) (@SW_D-SLOG@) Start-Date: Thu Jun 17 2021 14:31:27 ?D1ú±ê×?ê±??
+14:31:27 (SW_D) (@SW_D-SLOG@) PID: 7900
+14:31:27 (SW_D) (@SW_D-SLOG@) VD Version: v11.14.1.3 build 212549 i86_n3 ( build 212549 (ipv6))
+14:31:27 (SW_D) (@SW_D-SLOG@) 
+14:31:27 (SW_D) (@SW_D-SLOG@) === Startup/Restart Info ===
+14:31:27 (SW_D) (@SW_D-SLOG@) Options file used: None
+14:31:27 (SW_D) (@SW_D-SLOG@) Is vendor daemon a CVD: No
+14:31:27 (SW_D) (@SW_D-SLOG@) Is TS accessed: No
+14:31:27 (SW_D) (@SW_D-SLOG@) TS accessed for feature load: -NA-
+14:31:27 (SW_D) (@SW_D-SLOG@) Number of VD restarts since LS startup: 0
+14:31:27 (SW_D) (@SW_D-SLOG@) 
+14:31:27 (SW_D) (@SW_D-SLOG@) === Network Info ===
+14:31:27 (SW_D) (@SW_D-SLOG@) Listening port: 49674
+14:31:27 (SW_D) (@SW_D-SLOG@) Daemon select timeout (in seconds): 1
+14:31:27 (SW_D) (@SW_D-SLOG@) 
+14:31:27 (SW_D) (@SW_D-SLOG@) === Host Info ===
+14:31:27 (SW_D) (@SW_D-SLOG@) Host used in license file: DESKTOP-91RBBDT
+14:31:27 (SW_D) (@SW_D-SLOG@) Running on Hypervisor: None (Physical)
+14:31:27 (SW_D) (@SW_D-SLOG@) ===============================================
